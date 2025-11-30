@@ -10,3 +10,4 @@ sudo apt install nmap
 sudo apt install shotcut
 sudo apt install steam
 sudo apt install virtualbox
+sudo apt install obs-studio
